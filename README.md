@@ -7,3 +7,7 @@ This ANN tutorial contains a model which predicts the risk probability whether t
 ## 2.)Convolutional Neural Network
 
 Working with images: This tutorial contains a model which can identifying the image of a dog or a cat.
+
+## 3.)Recurrent Neural Network
+
+Predicting Google Stock Price.
